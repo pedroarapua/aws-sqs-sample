@@ -38,6 +38,11 @@
             <artifactId>amazon-sqs-java-messaging-lib</artifactId>
             <version>${aws.sqs.messaging}</version>
         </dependency>
+        <dependency>
+		    <groupId>io.sentry</groupId>
+		    <artifactId>sentry-logback</artifactId>
+		    <version>1.7.5</version>
+		</dependency>
     </dependencies>
 
     <build>
