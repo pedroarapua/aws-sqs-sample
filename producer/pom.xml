@@ -14,7 +14,7 @@
 
     <properties>
         <lombok.version>1.18.2</lombok.version>
-        <guava.version>23.5-jre</guava.version>
+        <guava.version>24.1.1-jre</guava.version>
     </properties>
 
     <dependencies>
